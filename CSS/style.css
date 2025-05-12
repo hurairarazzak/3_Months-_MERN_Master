@@ -1,0 +1,20 @@
+/* *{} Universal Selector  */
+
+/* h1{color: brown;} Element Selector */
+
+/* #myId{color: blue;} // Id Selector */
+
+/* .myClass{color: green;} // Class Selector */
+
+/* Practice 1 */
+#box{
+    background-color: blue;
+}
+
+.heading{
+    color: red;
+}
+
+.btnClass{
+    background-color: green;
+}
