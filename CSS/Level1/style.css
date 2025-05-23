@@ -17,4 +17,21 @@
 
 .btnClass{
     background-color: green;
+    cursor: pointer;
+}
+
+p {
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+#one{
+    font-family: arial;
+}
+
+#two{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
