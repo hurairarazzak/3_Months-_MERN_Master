@@ -32,3 +32,16 @@ var userName = "Ali";
 var favBrd = "Labrador";
 var favoriteBreed = "Labrador";
 
+// ------------- Mini Task -------------
+// Code likho jismein:
+// 3 variables banao:
+// userName (your name)
+// userAge (any number)
+// userCity (any city)
+// In sab ko alert() mein show karo in one message using + operator
+
+var mineName = "Huraira";
+var userAge = 15;
+var userCity = "Karachi";
+alert("Hey I\'m " + mineName + " and i'm " + userAge + " year's old from " + userCity);
+
