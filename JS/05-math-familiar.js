@@ -83,4 +83,3 @@ var cashGiven = 150;
 var change = cashGiven - totalCost;
 console.log("Total Bill: " + totalCost);
 console.log("Bacha hua paisa: " + change);
-
