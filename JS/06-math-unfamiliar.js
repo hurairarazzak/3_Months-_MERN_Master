@@ -41,3 +41,17 @@ var x = 7;
 var y = ++x;
 alert(y); // Output is 8
 
+var m = 3;
+var n = --m;
+alert(m + ", " + n); // Output is 2, 2
+
+var score = 10;
+alert(score--); // output is 10
+alert(score); // Output is 9
+
+// Is this written correctly? If there is a mistake, please correct it:
+var value = 4;
+// var newValue = value+; // Yes there is a mistake in this line correction is in the below
+var newValue = value++;
+
+
