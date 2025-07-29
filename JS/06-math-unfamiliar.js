@@ -41,7 +41,3 @@ var x = 7;
 var y = ++x;
 alert(y); // Output is 8
 
-var m = 3;
-var n = --m;
-alert(m + ", " + n);
-
